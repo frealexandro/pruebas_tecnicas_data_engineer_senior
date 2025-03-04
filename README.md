@@ -4,7 +4,7 @@
 
 ## Nota Importante 📢: Este sera el unico documento en español - debido al nivel de exigencia
 
-Realmente hago este repositorio porque el auge de los Data Engineers en 2025 es exponencial. Mi última entrevista perdida fue la razón por la cual inicié este proyecto, con la esperanza de ayudar a otros Data Engineers a alcanzar un nivel senior. He perdido tal vez más de 5 entrevistas para puestos senior con ofertas de hasta **$4500 USD**, mientras que actualmente mi rango salarial es de **$3000 USD**. 
+Realmente hago este repositorio porque el auge de los Data Engineers en 2025 es exponencial. Mi última entrevista perdida fue la razón por la cual inicié este proyecto, con la esperanza de ayudar a otros Data Engineers a alcanzar un nivel senior. He perdido tal vez más de 5 entrevistas para puestos senior con ofertas de hasta **$4500 USD**. 
 
 Cabe aclarar que soy de **Latinoamérica, Colombia**, y aunque esto representa aproximadamente **18 millones de pesos colombianos**, suficiente para vivir bien, quiero mejorar mis habilidades y conseguir mejores oportunidades. 
 
