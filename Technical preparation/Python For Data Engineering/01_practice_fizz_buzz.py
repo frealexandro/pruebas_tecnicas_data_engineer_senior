@@ -6,16 +6,19 @@
 #! Múltiplos de 5 por la palabra "buzz".
 #! Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
 
-def run():
+
+def fizzbuss_function():
     
     for i in range(1,101):
+        
+
         if i % 3 == 0 and i % 5 == 0 :
-            print("fizzbuzz") 
-        if i % 3 == 0:
+            print("fizzbuzz")
+        elif i % 3 == 0 :
             print("fizz")
-        if i % 5 == 0:
+        elif i % 5 == 0 :
             print("buzz")
+        
 
 
-if __name__ == "__main__":
-    run()
+fizzbuss_function()
