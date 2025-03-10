@@ -8,18 +8,17 @@
 #  */
 
 
-def angrama (palabra_1,palabra_2):
 
-    if palabra_1.lower() == palabra_2.lower():
-        return False
+def anagram(word_1,word_2):
+
+    if word_1.lower() == word_2.lower():
+        return False 
     
-    return sorted(palabra_1.lower()) == sorted(palabra_2.lower())
+    elif sorted(word_1.lower()) == sorted(word_2.lower()):
+
+        return True
+
+print(anagram("amor","amor"))
 
 
-
-anagram_w =angrama("hola" , "haloja")
-
-print(anagram_w)
-
-
-#all: it was my fist attempt i use chat gpt to solve a part
+#all: it was my second attempt i have a error in the code so i use the last example
