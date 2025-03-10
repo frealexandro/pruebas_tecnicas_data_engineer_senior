@@ -22,3 +22,7 @@ def fizzbuss_function():
 
 
 fizzbuss_function()
+
+
+
+#all: it was my second attempt i have a error in the code so i use chat gpt
