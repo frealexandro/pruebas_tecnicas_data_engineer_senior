@@ -1,9 +1,7 @@
-#/*
-# * Escribe un programa que se encargue de comprobar si un número es o no primo.
-# * Hecho esto, imprime los números primos entre 1 y 100.
+# /*
+# * Write a program that checks whether a number is prime or not.
+# * Once done, print the prime numbers between 1 and 100.
 # */
-
-
 
 
 def is_prime(n):
@@ -21,7 +19,7 @@ def is_prime(n):
 
 
 # print the number 1 to 100
-print("Númbers between 1 y 100:")
+print("Númbers between 1 and 100:")
 for num in range(1, 101):
     if is_prime(num):
         print(num, end=" ")  # print the numbers in one line

@@ -6,14 +6,16 @@
 # * 0, 1, 1, 2, 3, 5, 8, 13...
 # */
 
-# Define a function that generates the first 'n' numbers of the Fibonacci sequence
+# Define a function to generate the first 'n' Fibonacci numbers
 def fibonacci(n):
+    """Generate the first 'n' numbers in the Fibonacci sequence."""
+    
+    # Initialize the first two Fibonacci numbers
     a, b = 0, 1
+    
+    # Use a loop to generate the sequence
     for _ in range(n):
-        yield a
-        a, b = b, a + b
-
-print(list(fibonacci(50)))
-
+        yield a  # Yield the current number (allows the function to act as a generator)
+        a, b = b, a + b  # Update values: shift 'a' to 'b', and 'b' to 'a + b'
 
 #all: it was my fist attempt i use chat gpt to solve a part
