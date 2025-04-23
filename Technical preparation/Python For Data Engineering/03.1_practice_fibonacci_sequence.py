@@ -19,4 +19,4 @@ print(list(fibonacci(50)))
 
 
 
-# i get some errors in the code ths dicipline is the best way to learn now i have a alarm of 30 min in the day
+#all: it was my second attempt i use chat gpt to solve a part
